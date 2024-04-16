@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "BMW M2",
+    "price": 64195,
+    "imgUrl": "../BMW-m2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "BMW M3",
+    "price": 76995,
+    "imgUrl": "../BMW-m3.jpg"
+  },
+  {
+    "id": 3,
+    "name": "BMW M4",
+    "price": 80270,
+    "imgUrl": "../BMW-m4.jpg"
+  },
+  {
+    "id": 4,
+    "name": "BMW M5 CS",
+    "price": 142000,
+    "imgUrl": "../BMW-m5.jpg"
+  },
+  {
+    "id": 5,
+    "name": "BMW M5 Compotention",
+    "price": 111895,
+    "imgUrl": "../BMW-M5Componention.jpg"
+  },
+  {
+    "id": 6,
+    "name": "BMW M5 F90",
+    "price": 99929,
+    "imgUrl": "../BMW-m5F90.jpeg"
+  }
+]
